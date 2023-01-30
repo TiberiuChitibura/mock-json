@@ -1,0 +1,42 @@
+{
+   "Rooms":[
+      {
+         "id":"1",
+         "name":"Kitchen"
+      },
+      {
+         "id":"2",
+         "name":"Bedroom"
+      },
+      {
+         "id":"3",
+         "name":"Bathroom"
+      }
+   ],
+   "Devices":[
+      {
+         "id":"4",
+         "name":"Max",
+         "device":"ZTE-Greta",
+         "model":"2022 X-3",
+         "manufacturer":"ZTE Hong Kong"
+      },
+      {
+         "id":"5",
+         "name":"Jeff",
+         "device":"Oppo Reno 7",
+         "model":"5G 2023",
+         "manufacturer":"Oppo Shanghai"
+      },
+      {
+         "id":"6",
+         "name":"Levent",
+         "device":"Samsung Smart TV nr.5",
+         "model":"2019 Q3",
+         "manufacturer":"Samsung International"
+      }
+   ],
+   "Users":{
+      
+   }
+}
